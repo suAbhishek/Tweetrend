@@ -1,2 +1,3 @@
 # Tweetrend
 Get the trending tweets,hashtags...
+To get Started make a account on Twitter Developers platform to get the Authentication Tokens and then add them in the file.
